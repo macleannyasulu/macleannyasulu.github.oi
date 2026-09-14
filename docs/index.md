@@ -20,9 +20,9 @@ CHECKLIST FOR THIS PAGE:
 
 <div class="hero">
   <img src="assets/images/profile.png" alt="[YOUR NAME]" class="profile-photo">
-  <h1>[YOUR NAME]</h1>
-  <p><strong>[YOUR JOB TITLE]</strong></p>
-  <p><em>[YOUR TAGLINE — e.g., Turning spatial data into insights | GIS | Remote Sensing | Python]</em></p>
+  <h1>Maclean Nyasulu</h1>
+  <p><strong>Geospatial Analyst | GIS & Remote Sensing Specialist </strong></p>
+  <p><em>Turning spatial data into insights for people, place and the environment</em></p>
 </div>
 
 ---
@@ -31,16 +31,26 @@ CHECKLIST FOR THIS PAGE:
 
 <div class="about-section" markdown>
 <div class="about-text" markdown>
+I am a geospatial analyst and GIS & Remote Specialist with Bachelor of science Degree 
+in Geography from University of Malawi,specializing in GIS, remote sensing, UAV/drone 
+mapping, spatial analysis, land surveying and geospatial data collection
 
-[Replace this paragraph with your own bio. Write 3–4 sentences covering: your background and
-what you specialize in, the kinds of problems you work on, the tools and methods you use,
-and what you are currently looking for. Example below:]
+l transform location-based data into clear actionable insights that support better decisions in 
+environmental management, urban planning, community development, humanitarian mapping and sustainable land management
 
-I am a geospatial data scientist with a background in remote sensing and machine learning.
-I work on extracting actionable insights from satellite imagery and large spatial datasets
-using Python, Google Earth Engine, and open-source GIS tools. I am passionate about applying
-GeoAI techniques to real-world challenges in land use mapping, climate monitoring, and urban
-planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TARGET LOCATION].
+My practical experience includes processing UAV imagery into orthomasaics, digital 
+elevation models and point clouds, conducting GIS based spatial analysis, collecting 
+and managing geocoded field data, performing GNSS/RTK land surveying. Am proficient in 
+using GIS technical tools like QGIS, ArcMap, GEE and RStudio, webODM, ODK, kobotool box and arcgis survey123.
+
+Beyond technical skills l bring experience in land surveying, humanitarian mapping, environmental monitoring, 
+drone mapping and geospatial research combine with leadership experience through University of Malawi Youthmappers
+
+I am curently open to opportunities in Geographic information system (GIS), geospatial analysis, 
+remote sensing, UAV/drone mapping, land surveying, environmental monitoring and spatial data management. 
+Am eager to collaborate with organisations, professionals and teams uisng geospatial technology to solve 
+real world challenges.
+
 
 </div>
 
@@ -53,7 +63,7 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 ---
 
 [View My Projects :material-arrow-right:](projects/index.md){ .md-button .md-button--primary }
-[Download CV :material-download:](assets/[YOUR-NAME]-CV.pdf){ .md-button }
+[Download CV :material-download:](assets/maclean-cv.pdf.pdf){ .md-button }
 
 
 ---
@@ -66,51 +76,44 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 
     ---
 
-    - QGIS, ArcGIS Pro, Google Earth Engine
+    - QGIS, ARCMAP, ArcGIS Pro, Google Earth Engine
     - GDAL / OGR, GRASS GIS
+    - ARCGIS DASHBOARD, UMAP, CHATMAP
     - Multispectral and SAR image analysis
-    - Cloud Native Geospatial (COG, STAC, Zarr)
 
--   :material-code-braces:{ .lg .middle } **Programming**
-
-    ---
-
-    - Python — GeoPandas, NumPy, Pandas, Matplotlib
-    - R — sf, terra, ggplot2
-    - JavaScript — Leaflet, MapLibre GL
-    - SQL, PostgreSQL + PostGIS
 
 -   :material-star-four-points:{ .lg .middle } **Machine Learning & GeoAI**
 
     ---
 
-    - Supervised classification — Random Forest, XGBoost
-    - Deep learning for image segmentation — U-Net, SAM
-    - scikit-learn, PyTorch, TensorFlow
+    - Supervised classification — Random Forest
+    - Deep learning for image segmentation
+    - PyTorch,
     - Object detection in satellite imagery
 
--   :material-earth:{ .lg .middle } **Web Mapping & Data**
 
+-   :material-water:{ .lg .middle } **Hydrological Modelling**
+    
     ---
 
-    - Leaflet.js, Folium, MapLibre GL JS
-    - Cloud storage — AWS S3, Google Cloud Storage
-    - Data formats — GeoTIFF, GeoParquet, NetCDF
-    - Streamlit for data-driven web apps
-
--   :material-database:{ .lg .middle } **Data & Cloud**
-
-    ---
-
-    - PostgreSQL + PostGIS
-    - Cloud storage: AWS S3, Google Cloud Storage
-    - Data formats: GeoJSON, GeoTIFF, NetCDF, Zarr, GeoParquet
+    - HEC-RAS
+    - Soil and Water Assessment Tool (SWAT)
 
 -   :material-airplane:{ .lg .middle } **Drone / UAV Data Processing**
 
+    ---
+
     - Mission planning and flight operations
-    - Photogrammetry: Agisoft Metashape, OpenDroneMap
-    - Point cloud processing: CloudCompare, PDAL
+    - Photogrammetry: webodm, Agisoft Metashape, OpenDroneMap
+    - Point cloud processing: CloudCompare
+
+-   :material-map:{ .lg .middle } **Land Surveying**
+ 
+    ---
+     
+    - Cadastral surveying
+    - Topographic surveying
+    - Softwares (GNNS/RTK GPS RECEIVER, autocad, archicad)
 </div>
 
 
@@ -118,5 +121,5 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 
 ## Connect
 
-[GitHub](https://github.com/[YOUR-GITHUB-USERNAME]){ .md-button }
-[LinkedIn](https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME]){ .md-button }
+[GitHub](https://github.com/macleannyasulu/macleannyasulu.github.oi){ .md-button }
+[LinkedIn](https://linkedin.com/in/maclean-nyasulu){ .md-button }
