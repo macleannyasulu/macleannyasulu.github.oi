@@ -19,16 +19,15 @@ A selection of my geospatial projects. Click any card to see the full write-up.
 <div class="grid" markdown>
 
 <div class="project-card" markdown>
-![](../assets/images/placeholder-project.png)
 
-**[Sample Project](sample-project.md)**
+![alt text](TA-Zulu-flood-risk-map-4.png)
+**[FLOOD MAPPING](TA-ZULU-flood.md)**
 
-[YOUR PROJECT DESCRIPTION — one or two sentences: what you did, what data you used,
-and what you found or built.]
+A flood hazard zonation map for Traditional Authority (TA) Zulu in Mchinji District, Malawi, built by combining 12 susceptibility and vulnerability parameters using the Analytical Hierarchy Process (AHP) and Weighted Linear Combination. The map shows local authorities where flooding is most likely and where communities are most exposed, in five hazard classes from Very Low to Very High.
 
-`[TOOL 1]` `[TOOL 2]` `[TOOL 3]`
+`ARCMAP`,    `GEE`,    `USGS-EARTHEXPLORER`,  `AHP-EXCEL`
 
-[View Project →](sample-project.md){ .md-button }
+[View Project →](macleannyasulu.github.oi/docs/projects/TA-ZULU-flood.md){ .md-button }
 </div>
 
 <div class="project-card" markdown>
