@@ -27,7 +27,7 @@ A flood hazard zonation map for Traditional Authority (TA) Zulu in Mchinji Distr
 
 `ARCMAP`,    `GEE`,    `USGS-EARTHEXPLORER`,  `AHP-EXCEL`
 
-[View Project →](macleannyasulu.github.oi/docs/projects/TA-ZULU-flood.md){ .md-button }
+[View Project →](TA-ZULU-flood.md){ .md-button }
 </div>
 
 <div class="project-card" markdown>
