@@ -31,16 +31,15 @@ A flood hazard zonation map for Traditional Authority (TA) Zulu in Mchinji Distr
 </div>
 
 <div class="project-card" markdown>
-![](../assets/images/placeholder-notebook.png)
+![](../assets/images/...)
 
-**[Sample Notebook](sample-notebook.ipynb)**
+**[NOT YET UPLOADED...](sample-notebook.ipynb)**
 
-[YOUR PROJECT DESCRIPTION — one or two sentences: what you did, what data you used,
-and what you found or built.]
+NOT YET...
 
-`Python` `pandas` `Folium`
 
-[View Project →](sample-notebook.ipynb){ .md-button }
+
+[View Project →](...){ .md-button }
 </div>
 
 </div>
